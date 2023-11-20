@@ -1,0 +1,19 @@
+{
+  "name": "eth_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ethereumApi.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
